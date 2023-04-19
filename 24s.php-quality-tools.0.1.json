@@ -3,6 +3,7 @@
     "24s/php-quality-tools": {
       "manifest": {
         "copy-from-recipe": {
+          "a.neon": "b.neon",
           "phpstan.neon": "phpstan.neon",
           "phpstan-baseline.neon": "phpstan-baseline.neon"
         },
