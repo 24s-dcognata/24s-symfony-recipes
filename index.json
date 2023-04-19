@@ -1,6 +1,6 @@
 {
   "recipes": {
-    "24s-php-quality-tools": [
+    "24s/php-quality-tools": [
       "0.1"
     ]
   },
