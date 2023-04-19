@@ -1,6 +1,5 @@
 {
   "copy-from-recipe": {
-    "bbb": "bbb",
     "phpstan.neon": "phpstan.neon",
     "phpstan-baseline.neon": "phpstan-baseline.neon"
   },
