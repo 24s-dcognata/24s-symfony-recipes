@@ -1,10 +1,7 @@
 {
-  "aliases": {
-    "24s-php-quality-tools": "24s/php-quality-tools"
-  },
   "recipes": {
     "24s-php-quality-tools": [
-      "0.0"
+      "0.1"
     ]
   },
   "branch": "main",
