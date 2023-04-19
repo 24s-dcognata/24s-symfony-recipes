@@ -1,0 +1,10 @@
+{
+  "copy-from-recipe": {
+    "phpstan.neon": "phpstan.neon",
+    "phpstan-baseline.neon": "phpstan-baseline.neon"
+  },
+  "gitignore": [
+    "/.tmp"
+  ],
+  "aliases": ["24s-php-quality-tools"]
+}
