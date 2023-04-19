@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "24s/php-quality-tools": [
+      "0.0"
+    ]
+  },
+  "branch": "master",
+  "is_contrib": true,
+  "_links": {
+    "repository": "gitlab.com/24s-dcognata/24s-symfony-recipes",
+    "origin_template": "{package}:{version}@gitlab.com/24s-dcognata/24s-symfony-recipes:master",
+    "recipe_template": "https://gitlab.com/24s-dcognata/24s-symfony-recipes/contents/{package_dotted}.{version}.json"
+  }
+}
