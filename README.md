@@ -13,7 +13,7 @@ Add new symfony flex endpoint in your `composer.json`
     "extra": {
         "symfony": {
             "endpoint": [
-                "https://gitlab.com/24s-dcognata/24s-symfony-recipes/contents/index.json",
+                "https://api.github.com/repos/24s-dcognata/24s-symfony-recipes/contents/index.json",
                 "flex://defaults"
             ]
         }

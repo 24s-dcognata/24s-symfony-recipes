@@ -1,0 +1,18 @@
+{
+  "aliases": {
+    "24s-php-quality-tools": "24s/php-quality-tools"
+  },
+  "recipes": {
+    "24s-php-quality-tools": [
+      "0.0"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": false,
+  "_links": {
+    "repository": "github.com/24s-dcognata/24s-symfony-recipes",
+    "origin_template": "{package}:{version}@github.com/24s-dcognata/24s-symfony-recipes:main",
+    "recipe_template": "https://raw.githubusercontent.com/24s-dcognata/24s-symfony-recipes/main/{package_dotted}.{version}.json",
+    "recipe_template_relative": "{package_dotted}.{version}.json"
+  }
+}

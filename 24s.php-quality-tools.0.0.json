@@ -1,0 +1,16 @@
+{
+  "manifests": {
+    "24s/php-quality-tools": {
+      "manifest": {
+        "copy-from-recipe": {
+          "phpstan.neon": "phpstan.neon",
+          "phpstan-baseline.neon": "phpstan-baseline.neon"
+        },
+        "gitignore": [
+          "/.tmp"
+        ]
+      },
+      "ref": "b5b34fa22319ac1f7f6c180b30e160841c154a1d"
+    }
+  }
+}
