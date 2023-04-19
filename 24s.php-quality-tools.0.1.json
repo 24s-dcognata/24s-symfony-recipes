@@ -3,8 +3,8 @@
     "24s/php-quality-tools": {
       "manifest": {
         "copy-from-recipe": {
-          "24s/php-quality-tools/0.1/phpstan.neon": "phpstan.neon",
-          "24s/php-quality-tools/0.1/phpstan-baseline.neon": "phpstan-baseline.neon"
+          "phpstan.neon": "phpstan.neon",
+          "phpstan-baseline.neon": "phpstan-baseline.neon"
         },
         "gitignore": [
           "/.tmp"
